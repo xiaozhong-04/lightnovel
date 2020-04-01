@@ -1,0 +1,12 @@
+api接口文档: https://documenter.getpostman.com/view/9127508/SVtYSmWz
+
+前端 lightnovel
+第一步: 切换到对应目录 cd lightnovel 
+第二步: 下载依赖包 npm i 
+启动: npm run serve
+
+
+服务端
+第一步: 切换到对应目录 cd lightnovel_server 
+第二步: 下载依赖包 npm i 
+启动: nodemon index.js
